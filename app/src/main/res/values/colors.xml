@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green_top_bar">#a1c639</color>
+    <color name="enter_button_purple">#6200EE</color>
+    #6200EE
+</resources>

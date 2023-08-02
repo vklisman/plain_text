@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editLogin" type="id" />
+    <item name="textBemVindo" type="id" />
+    <item name="textViewWelcome" type="id" />
+</resources>

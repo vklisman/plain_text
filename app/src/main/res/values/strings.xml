@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PlainText</string>
+    <string name="message">Digite suas credenciais para continuar</string>
+    <string name="login">Login:</string>
+    <string name="senha">Senha:</string>
+    <string name="salvar_informa_es_de_login">Salvar informações de login</string>
+    <string name="entrar">Entrar</string>
+    <string name="senha1">Senha:</string>
+    <string name="login1">Login:</string>
+    <string name="senha2">Senha:</string>
+    <string name="text_slogan2" />
+    <string name="text_slogan_authors2" />
+    <string name="creden" />
+    <string name="login_field2" />
+    <string name="password_field2" />
+    <string name="save" />
+    <string name="enter" />
+    <string name="pass">Senha:</string>
+    <string name="todo">TODO</string>
+    <string name="ent">Ent</string>
+    <string name="text_slogan3">\"The most secure password manager\"\nBob and Alice</string>
+    <string name="text_slogan">\"The most secure password manager\"</string>
+    <string name="text_slogan_authors">Bob and Alice</string>
+    <string name="log">Login:</string>
+    <string name="password_field">Senha:</string>
+    <string name="password" />
+    <string name="save_login_message">Salvar informação de login</string>
+    <string name="enter_button">ENTRAR</string>
+    <string name="login_field" />
+    <string name="credential_header">Digite suas credenciais para continuar</string>
+    <string name="sobre">Sobre</string>
+    <string name="configs">Configurações</string>
+</resources>
